@@ -1,4 +1,4 @@
-<img width="155" height="331" alt="Screenshot 2026-05-18 145434" src="https://github.com/user-attachments/assets/34c67aaa-c9e1-4270-9398-84011aaf7b97" />✨ LUXORA — Luxury Fashion Store App
+✨ LUXORA — Luxury Fashion Store App
 
 A premium Flutter CRUD application built using Bloc State Management and the Dio package, designed with a modern luxury shopping experience inspired by high-end fashion brands.
 
